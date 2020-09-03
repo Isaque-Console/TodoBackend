@@ -1,0 +1,4 @@
+﻿1, Estudar Inglês, Estudar novos tempos verbais, 14/05/2020, 15/05/2020, Iniciada
+2, Andar com o cachorro, Passear com o bob, 14/05/2020, 14/05/2020, Não Iniciada
+3, Criar Backend C#, Backend de teste para aprendizado, 25/05/2020, 25/05/2020, Iniciada
+4, Culto AD Cidade, Culto de Doutrina - Terça, 30/06/2020, 30/06/2020, Aguardando

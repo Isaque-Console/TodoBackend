@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="https://raw.githubusercontent.com/streetsidesoftware/cspell/master/cspell.schema.json" /></VisualStudio></ProjectExtensions>
+
+
+</Project>
